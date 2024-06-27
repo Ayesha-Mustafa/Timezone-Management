@@ -13,6 +13,7 @@ Steps to run the project
 4. Run "php artisan serve" to run the project
 5. Run "php artisan migrate" to run migration
 6. Now login the user and add the record
+
 7. Use a browser extension or go to the console.
 8. Open Lighthouse.
 9. Click on the three dots in the Lighthouse panel.
